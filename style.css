@@ -155,6 +155,10 @@ body > div > div.btn-container > div.yarok.btn > img {
   flex-shrink: 0;
   min-width: 100%;
 }
+body > div > div.btn-container > div.panharmonicon.btn,
+body > div > div.btn-container > div.yarok.btn {
+  position: relative;
+}
 
 body > div > div.btn-container > div.panharmonicon.btn > h2,
 body > div > div.btn-container > div.yarok.btn > h2 {
