@@ -159,6 +159,9 @@ body > div > div.btn-container > div.yarok.btn > img {
 body > div > div.btn-container > div.panharmonicon.btn > h2,
 body > div > div.btn-container > div.yarok.btn > h2 {
   position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
 }
 
 .panharmonicon.active,
